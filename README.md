@@ -4,7 +4,7 @@ Made a GUI Application using Tkinter Library from Python. The App has covered mo
 
 ![Output GUI](https://github.com/pranshu2610/GUI-App-Tkinter/blob/master/DIS.png)
 
-# Documentaion of Tkinter
+# Documentation of Tkinter
 
 Tk/Tcl has long been an integral part of Python. It provides a robust and platform independent windowing toolkit, that is available to Python programmers using the tkinter package, and its extension, the tkinter.tix and the tkinter.ttk modules. 
 
